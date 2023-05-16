@@ -1,4 +1,4 @@
-## Olá, eu sou a Elen Carvalho, desenvolvedora de sistema fullstack!
+## Olá, eu sou a Elen Carvalho, desenvolvedora fullstack!
 
 <div align="center">
   <a href="https://github.com/Elen0207">
